@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f5;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #4caf50;
+    color: white;
+    padding: 1.5rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #4caf50;
+    color: white;
+    font-size: 0.9rem;
+}
+
+form {
+    margin: 1rem 0;
+}
+
+input {
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Secciones */
+#intro {
+    margin-bottom: 2rem;
+}
+
+#counter {
+    margin-top: 2rem;
+}
+
+#mensaje {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    color: #4caf50;
+}
